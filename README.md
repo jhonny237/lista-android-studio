@@ -3,11 +3,17 @@
 
 
 Tela de login
+
+
 https://github.com/user-attachments/assets/77991633-c797-467e-9c5b-5dc91fab962e
 
 tela para tirar foto
+
+
 https://github.com/user-attachments/assets/927772ae-9416-436e-b562-933c649dad0b
 
 mostrando navegação entre telas
+
+
 https://github.com/user-attachments/assets/a201c1aa-4c2d-4251-bbf3-2ba143d28f82
 
